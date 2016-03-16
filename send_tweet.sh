@@ -2,4 +2,4 @@
 
 LANG=en_US.UTF-8
 cd /home/freebsd/lulaNoDepoimentoBot
-/home/freebsd/.virtualenvs/lula/bin/twitter set `./bot.py`
+/home/freebsd/.virtualenvs/lula/bin/twitter set `./new_bot.py`
